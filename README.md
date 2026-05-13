@@ -40,4 +40,4 @@ Below is a screenshot of the live Enterprise Support Classifier in action:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Dileep2006/FUTURE_ML_02.git](https://github.com/Dileep2006/FUTURE_ML_02.git)
+   git clone https://github.com/shannu-pixel/FUTURE_ML_02.git
